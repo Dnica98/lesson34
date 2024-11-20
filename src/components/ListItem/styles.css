@@ -1,0 +1,26 @@
+
+.list-item {
+    display: flex;
+    gap: 24px;
+}
+
+.list-item-done {
+    text-decoration: line-through;
+}
+
+.primary {
+    background-color: rgb(12, 160, 12);
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+}
+
+.secondary {
+    background-color: NONE;
+    color: rgb(241, 3, 3);
+    padding: 8px 16px;
+    border: rgb(241, 3, 3);
+    border-color: rgb(241, 3, 3);
+    border-radius: 4px;
+}

@@ -1,0 +1,10 @@
+
+body {
+  margin: 0; 
+}
+
+.doneUndone{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
