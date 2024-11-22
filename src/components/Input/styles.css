@@ -1,0 +1,10 @@
+
+
+.form-inut{
+    height: 32px;
+    padding: 8px 16px;
+}
+
+.form-input:focus{
+    outline: 2px solid rgb(22, 21, 21);
+}

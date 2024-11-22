@@ -13,7 +13,7 @@ const ToDoForm = ({
         <div className="formWrapper">
             <p>{title}</p>
             <Input value={value} onChange={onChange} placeholder={placeholder} />
-            <Button onClick={btnAction} title={btnTitle} />
+            <Button onClick={btnAction} title={btnTitle}  />
         </div>
     )
 }

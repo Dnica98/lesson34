@@ -1,12 +1,13 @@
+/* :root{
+  --primary- {rgba(117, 103, 240, 1)};
+} */
 
 body {
   margin: 0;
-  background-color: rgb(64, 173, 137, 0.4);
 }
 
 .doneUndone{
   display: flex;
   justify-content: space-between;
   padding: 20px;
-  
 }

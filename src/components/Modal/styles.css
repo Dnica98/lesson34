@@ -6,7 +6,7 @@
     height: 100vh;
     display: none;
     place-items: center;
-    background-color: hsla(204, 81%, 65%, 0.4);
+    background-color: rgb(117, 103, 240, 0.4);
 }
 
 .modal-active {
